@@ -85,6 +85,8 @@ body{
 .bold-1{
     color: var(--light-grayish-blue);
 }
+.bold-2{
+    color: var(--very-dark-grayish-blue);
 .name{
     font-weight: 600;
     color: var(--light-grayish-blue);
