@@ -80,7 +80,7 @@ body{
     color: var(--light-gray);
 }
 .desc-bold{
-    font-weight: bolder;
+    font-weight: 600;
     font-size: 0.9rem;
     padding: 20px 0;
 }
