@@ -72,7 +72,7 @@ body{
 .card-3,
 .card-5{
     background-color: var(--white);
-    color: var(--very-dark-grayish-blue);
+    color: var(--light-gray);
 }
 .card-4{
     background-color: var(--very-dark-bluelish-blue);
